@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+.body{
+	overflow-x:hidden !important ;
+}
+
 
 .overview {
   width: 100vw;
